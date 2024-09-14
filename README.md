@@ -9,7 +9,7 @@ $$
 where the residual $r(x)=x$ and $c=1$ in sense of Geman-McClure. The dual problem $(6)$ is as follows:
 
 $$
-    \min_x\ \mu\big(x^2-\beta(x^2+1)\big)=\mu x^2-\mu\beta x^2-\mu\beta,
+    \min_x\ \mu\big(f(x)-\beta h(x)\big)=\mu\big(x^2-\beta(x^2+1)\big)=\mu x^2-\mu\beta x^2-\mu\beta,
 $$
 
 where $\beta\in\mathbb{R}$ and $\mu\in\mathbb{R}$. Let $\boldsymbol{\alpha}=(\beta,\mu)^\top\in\mathbb{R}^2$ and $x_{\boldsymbol{\alpha}}$ be the optimal solution of Problem (6) given $\boldsymbol{\alpha}$, we obtain $x_{\boldsymbol{\alpha}}=0$ by setting the derivative to zero as follows:
