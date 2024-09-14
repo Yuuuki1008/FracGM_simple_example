@@ -41,9 +41,9 @@ It is trivial that both component functions $\psi_1(\boldsymbol{\alpha},x_{\bold
 $$
     \\|\psi(\boldsymbol{\alpha}\_1,x_{\boldsymbol{\alpha}\_1})-\psi(\boldsymbol{\alpha}\_2,x_{\boldsymbol{\alpha}_2})\\|=
     \begin{Vmatrix}
-    \beta_1-\beta_2\\\mu_1-1-(\mu_2-1)
+    \beta_1-\beta_2\\\\\mu_1-1-(\mu_2-1)
     \end{Vmatrix}\leq\begin{Vmatrix}
-    \beta_1-\beta_2\\\mu_1-\mu_2
+    \beta_1-\beta_2\\\\\mu_1-\mu_2
     \end{Vmatrix},
 $$
 
