@@ -12,7 +12,7 @@ $$
     \min_x\ \mu\big(f(x)-\beta h(x)\big)=\mu\big(x^2-\beta(x^2+1)\big)=\mu x^2-\mu\beta x^2-\mu\beta,
 $$
 
-where $\beta\in\mathbb{R}$ and $\mu\in\mathbb{R}$. Let $\boldsymbol{\alpha}=(\beta,\mu)^\top\in\mathbb{R}^2$ and $x_{\boldsymbol{\alpha}}$ be the optimal solution of Problem (6) given $\boldsymbol{\alpha}$, we obtain $x_{\boldsymbol{\alpha}}=0$ by setting the derivative to zero as follows:
+where $\beta\in\mathbb{R}$ and $\mu\in\mathbb{R}$. Let $\boldsymbol{\alpha}=(\beta,\mu)^\top\in\mathbb{R}^2$ and $x_{\boldsymbol{\alpha}}$ be the optimal solution of Problem $(6)$ given $\boldsymbol{\alpha}$, we obtain $x_{\boldsymbol{\alpha}}=0$ by setting the derivative to zero as follows:
 
 $$
     \frac{\partial}{\partial x}(\mu x^2-\mu\beta x^2-\mu\beta)=2\mu(1-\beta)x=0\implies x^*=x_{\boldsymbol{\alpha}}=0.
