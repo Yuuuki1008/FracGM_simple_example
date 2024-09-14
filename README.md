@@ -39,7 +39,7 @@ $$
 It is trivial that both component functions $\psi_1(\boldsymbol{\alpha},x_{\boldsymbol{\alpha}})=\beta$ and $\psi_2(\boldsymbol{\alpha},x_{\boldsymbol{\alpha}})=\mu-1$ are differentiable, thus $\psi(\boldsymbol{\alpha},x_{\boldsymbol{\alpha}})$ is differentiable. Given $\boldsymbol{\alpha}_1=(\beta_1,\mu_1)^\top$ and $\boldsymbol{\alpha}_2=(\beta_2,\mu_2)^\top$,
 
 $$
-    \|\psi(\boldsymbol{\alpha}_1,x_{\boldsymbol{\alpha}_1})-\psi(\boldsymbol{\alpha}_2,x_{\boldsymbol{\alpha}_2})\|=
+    \|\psi(\boldsymbol{\alpha}\_1,x_{\boldsymbol{\alpha}\_1})-\psi(\boldsymbol{\alpha}\_2,x_{\boldsymbol{\alpha}_2})\|=
     \begin{Vmatrix}
     \beta_1-\beta_2\\\mu_1-1-(\mu_2-1)
     \end{Vmatrix}\leq\begin{Vmatrix}
