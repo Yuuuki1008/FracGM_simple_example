@@ -54,37 +54,36 @@ then $\psi(\boldsymbol{\alpha},x_{\boldsymbol{\alpha}})$ is Lipschitz continuous
 We test variaous initial guess from `initial_list = [-10000, -1000, -100, -10, -1, 0, 1, 10, 100, 1000, 10000]`, and all solutions are approximately 0.
 
 ```
-==================================================
 initial guess: -10000
-solution: 1.127029877646477e-05
+solution: 0.0000
 ==================================================
 initial guess: -1000
-solution: -1.9152677706308051e-10
+solution: -0.0000
 ==================================================
 initial guess: -100
-solution: -6.785652744569969e-07
+solution: -0.0000
 ==================================================
 initial guess: -10
-solution: -5.101460067959065e-08
+solution: -0.0000
 ==================================================
 initial guess: -1
-solution: -2.732847282600752e-09
+solution: -0.0000
 ==================================================
 initial guess: 0
-solution: 0.0
+solution: 0.0000
 ==================================================
 initial guess: 1
-solution: -2.732847282600752e-09
+solution: -0.0000
 ==================================================
 initial guess: 10
-solution: -5.101460067959065e-08
+solution: -0.0000
 ==================================================
 initial guess: 100
-solution: -6.785652744569969e-07
+solution: -0.0000
 ==================================================
 initial guess: 1000
-solution: -1.9152677706308051e-10
+solution: -0.0000
 ==================================================
 initial guess: 10000
-solution: 1.127029877646477e-05
+solution: 0.0000
 ```
