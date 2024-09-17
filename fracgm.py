@@ -7,7 +7,7 @@ class FracGM:
         min x^2 / (x^2 + 1),
     where the optimal solution is x* = 0.
     """
-    def __init__(self, max_iteration=10, tolerance=1e-7, verbose=False):
+    def __init__(self, max_iteration=10, tolerance=1e-7, verbose=True):
         
         self.max_iter = max_iteration
         self.tol = tolerance
